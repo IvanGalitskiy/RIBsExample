@@ -1,0 +1,2 @@
+rootProject.name='RIBs example'
+include ':app'
